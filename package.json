@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "name": "mamba-black",
-  "displayName": "Mamba Black",
+  "version": "0.1.1",
+  "name": "sai-black",
+  "displayName": "Saiblack",
   "description": "Minimal pure black theme",
   "author": "saimaneim",
   "publisher": "saimaneim",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saimaneim/mamba-black"
+    "url": "https://github.com/saimaneim/sai-black"
   },
   "engines": {
     "vscode": "^1.105.0"
@@ -24,7 +24,8 @@
     "oled",
     "theme",
     "minimal",
-    "dark"
+    "dark",
+    "dark theme"
   ],
   "icon": "images/icon.png",
   "galleryBanner": {
@@ -34,7 +35,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mamba Black",
+        "label": "Saiblack",
         "uiTheme": "vs-dark",
         "path": "./themes/mamba-black-color-theme.json"
       }

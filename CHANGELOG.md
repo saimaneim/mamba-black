@@ -1,6 +1,10 @@
 # Change Log
 
-All notable changes to the "mamba-black" extension will be documented in this file.
+All notable changes to the "sai-black" extension will be documented in this file.
+
+## [0.1.1] - 2026-06-19
+
+- rebrand extension from Mamba Black to Saiblack
 
 ## [0.1.0] - 2026-06-19
 
